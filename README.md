@@ -9,3 +9,12 @@ Creating a Blockchain with TypeScript
 - Typescript
 - TSConfig
 - TSNode
+- Crypto
+
+### Features
+
+- Interfaces
+- Classes
+- Polymorphism
+- Generics
+- Call Signatures
